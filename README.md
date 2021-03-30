@@ -8,8 +8,8 @@ Even if you're just a developer, ad service provider, ad pack buyer, or an end u
 Feel free to edit, contribute or create issue.
 
 ## Table of Contents
-- [Mobile Ads Network](#Mobile%20Ads%20Network)
-- [Mobile Ads Mediation](#Mobile%20Ads%20Mediation)
+* [Mobile Ads Network](#mobile-ads-network)
+- [Mobile Ads Mediation](#mobile-ads-mediation)
 
 ## Mobile Ads Network
 

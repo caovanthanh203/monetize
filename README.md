@@ -16,9 +16,11 @@ Feel free to edit, contribute or create issue.
 | Name | Description | Link |
 |------|-------------|------|
 | [Admob](https://admob.google.com/) | Earn more revenue with your apps | [https://admob.google.com](https://admob.google.com) |
+| [Mopub](https://www.mopub.com/) | MoPub, a Twitter company, provides monetization solutions for mobile app. | [https://www.mopub.com](https://www.mopub.com) |
 
 ## Mobile Ads Mediation
 
 | Name | Description | Link |
 |------|-------------|------|
 | [Admob](https://admob.google.com/) | Earn more revenue with your apps | [https://admob.google.com](https://admob.google.com) |
+| [Mopub](https://www.mopub.com/) | MoPub, a Twitter company, provides monetization solutions for mobile app. | [https://www.mopub.com](https://www.mopub.com) |
